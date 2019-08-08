@@ -1,17 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Wed Aug  7 21:09:50 2019
-
-@author: ShimaLab
-"""
-
-# -*- coding: utf-8 -*-
-"""
-Created on Wed Aug  7 17:41:09 2019
-
-@author: ShimaLab
-"""
-
 import numpy as np
 import matplotlib.pyplot as plt
 
